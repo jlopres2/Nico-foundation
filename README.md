@@ -19,4 +19,4 @@ This website was built using the following technologies:
 
 ## 🚀 Deployment
 
-The Nico Foundation website is deployed on GitHub Pages. You can view the live site at: [https://jlopres2.github.io/nico-foundation](https://jlopres2.github.io/nico-foundation).
+The Nico Foundation website is deployed on GitHub Pages. You can view the live site at: [https://jlopres2.github.io/nico-foundation](https://jlopres2.github.io/Nico-foundation/).
